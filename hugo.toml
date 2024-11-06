@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'bn-bd'
+title = 'Enlightened With Fire'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
